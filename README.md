@@ -1,5 +1,3 @@
-Para el README de este proyecto, algo así sería perfecto:
-
 # Gestor de Equipo Pokémon Competitivo
 Aplicación de consola en Python para gestionar tu equipo Pokémon. Permite ver, agregar y buscar Pokémon, guardando todo en un archivo JSON para que persista entre sesiones.
 ## ¿Qué hace?
